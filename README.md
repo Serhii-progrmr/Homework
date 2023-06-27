@@ -1,2 +1,2 @@
 # Homework
-Homework tasks for Python13 course
+Homework tasks for Python15 course
